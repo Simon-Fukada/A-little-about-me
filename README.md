@@ -15,7 +15,7 @@ Recently I watched a Netflix documentary titled Alpha GO. This exposed me to Dee
 Right now in school I am learning about the object oriented language Java. When I dug a little deeper into the history of Java I discovered that its creator, Dr. James Gosling is from Calgary! To me Dr. Gosling is an inspiration, being the father of such an influential programming language and also being awarded the order of Canada it instills in me the sense that I could do it to. I recently read an article https://www.ucalgary.ca/utoday/issue/2014-03-17/father-java-programming-language-shares-career-wisdom-sold-out-event that he gave a talk at U of C in 2014. I’m sad I missed it but hope that next time he’s around I’ll be able to hear him speak!   
 
 # Focus
-I would primarily like to focus on back end programming but am happy to work on front end development as well. I am interested in working with all server side languages and in school have gained entry level knowledge in PHP, JAVA and C#. I’m also trying to teach myself node.js. I would also like to practice working with databases. In school I have learnt about MySQL, SQL server and Oracle but would love a chance to work with databases like MongoDB. I would really enjoy learning more about services like Amazon Web Services as well. Finally, anything related to machine learning and AI would be a bonus for me! 
+I would primarily like to focus on machine learning, analytics and data science. Especially in regards to health care and assisting in clinical decision making. 
 
 # Code Challenge
 https://codepen.io/SimonF123/pen/xYzVGj
